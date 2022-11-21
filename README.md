@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natasha</h1>
-<h3 align="center">I'm a learner</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning 
 
 - 📫 How to reach me **natashadewanti52@gmail.com**
 
