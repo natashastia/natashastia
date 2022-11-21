@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natasha</h1>
 <h3 align="center">I'm a learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=natashastia&label=Profile%20views&color=0e75b6&style=flat" alt="natashastia" /> </p>
-
 - 🌱 I’m currently learning **React.js**
 
 - 📫 How to reach me **natashadewanti52@gmail.com**
